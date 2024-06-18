@@ -13,4 +13,12 @@ $ docker-compose up
 
 - Além disso adicionei uma função para criar as tabelas no banco assim que conectar algo que estava faltando antes.
 
+- Lucas Zonzini Lisboa
+
+- Alterei o layout do aplicativo.
+
+- Adicionei botões e colori a interface
+
+- Organizei a tabela
+
 <img src="https://i.imgur.com/o6y18Vk.png" alt="Aplicação">
